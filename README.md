@@ -39,7 +39,7 @@ Install dependencies
   python pip install -r requirements.txt
 ```
 
-running the cleaning Notebook
+running the model Notebook
 credit-card-fraud-detection.ipynb
 
 
